@@ -1,0 +1,12 @@
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.Models\obj\Debug\net6.0\webApi.Models.csproj.AssemblyReference.cache
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.Models\obj\Debug\net6.0\webApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.Models\obj\Debug\net6.0\webApi.Models.AssemblyInfoInputs.cache
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.Models\obj\Debug\net6.0\webApi.Models.AssemblyInfo.cs
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.Models\obj\Debug\net6.0\webApi.Models.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.Models\bin\Debug\net6.0\webApi.Models.deps.json
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.Models\bin\Debug\net6.0\webApi.Models.dll
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.Models\bin\Debug\net6.0\webApi.Models.pdb
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.Models\obj\Debug\net6.0\webApi.Models.dll
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.Models\obj\Debug\net6.0\refint\webApi.Models.dll
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.Models\obj\Debug\net6.0\webApi.Models.pdb
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.Models\obj\Debug\net6.0\ref\webApi.Models.dll

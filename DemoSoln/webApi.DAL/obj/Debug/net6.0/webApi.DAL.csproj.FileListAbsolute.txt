@@ -1,0 +1,15 @@
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\obj\Debug\net6.0\webApi.DAL.csproj.AssemblyReference.cache
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\obj\Debug\net6.0\webApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\obj\Debug\net6.0\webApi.DAL.AssemblyInfoInputs.cache
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\obj\Debug\net6.0\webApi.DAL.AssemblyInfo.cs
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\obj\Debug\net6.0\webApi.DAL.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\bin\Debug\net6.0\webApi.DAL.deps.json
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\bin\Debug\net6.0\webApi.DAL.dll
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\bin\Debug\net6.0\webApi.DAL.pdb
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\bin\Debug\net6.0\webApi.Models.dll
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\bin\Debug\net6.0\webApi.Models.pdb
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\obj\Debug\net6.0\webApi.DAL.csproj.CopyComplete
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\obj\Debug\net6.0\webApi.DAL.dll
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\obj\Debug\net6.0\refint\webApi.DAL.dll
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\obj\Debug\net6.0\webApi.DAL.pdb
+C:\WorkSpace\Learning\Projects\DemoSoln\webApi.DAL\obj\Debug\net6.0\ref\webApi.DAL.dll
